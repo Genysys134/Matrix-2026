@@ -13,7 +13,7 @@ Matrix
 
 ## How to test
 
-Explain how to use your project
+Running Matrix Test
 
 ## External hardware
 
